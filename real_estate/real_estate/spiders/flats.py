@@ -5,9 +5,7 @@ from ..items import Flatitem
 
 class Flatspider(scrapy.Spider):
     name = 'flat'
-    start_urls = ['https://www.magicbricks.com/property-for-rent/residential-real-estate?proptype=Multistorey'
-                  '-Apartment,Builder-Floor-Apartment,Penthouse,Studio-Apartment,Service-Apartment,Residential-House,'
-                  'Villa&cityName=Bangalore']
+    start_urls = ['https://www.magicbricks.com/property-for-rent/residential-real-estate?bedroom=&proptype=Multistorey-Apartment,Builder-Floor-Apartment,Penthouse,Studio-Apartment,Service-Apartment,Residential-House,Villa&cityName=Bangalore']
 
     def parse(self, response):
         print("[Response]")

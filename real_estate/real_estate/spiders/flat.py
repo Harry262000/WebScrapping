@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-url = 'https://www.magicbricks.com/property-for-rent/residential-real-estate?bedroom=&proptype=Multistorey-Apartment,Builder-Floor-Apartment,Penthouse,Studio-Apartment,Service-Apartment,Residential-House,Villa&cityName=Bangalore'
+url = ''
 req = requests.get(url)
 
 soup = BeautifulSoup(req.text, 'html.parser')
