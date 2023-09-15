@@ -6,7 +6,7 @@ Welcome to the Web Scraping Repository! Explore a variety of web scraping projec
 
 ### 🛢️ Crude Oil
 
-- **Directory**: [Crude_oil](./Crude_oil)
+- **Directory**: [Crude_oil](./Crude_oil/Crude_oil/spiders/Oil_data.py)
 - **Last Update**: last month
 - **Description**: Web scraping project related to crude oil data.
 - **Tools Used**: BeautifulSoup, Requests
