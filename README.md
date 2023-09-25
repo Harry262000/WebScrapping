@@ -20,7 +20,7 @@ Welcome to the Web Scraping Repository! Explore a variety of web scraping projec
 
 ### 💰 Crypto
 
-- **Directory**: [Crypto](./crypto)
+- **Directory**: [Crypto](./crypto/crypto/spiders)
 - **Last Update**: 3 weeks ago
 - **Description**: Web scraping project related to cryptocurrency data.
 - **Tools Used**: BeautifulSoup, Requests
