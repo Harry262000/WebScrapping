@@ -7,35 +7,35 @@ Welcome to the Web Scraping Repository! Explore a variety of web scraping projec
 ### 🛢️ Crude Oil
 
 - **Directory**: [Crude_oil](./Crude_oil/Crude_oil/spiders/Oil_data.py)
-- **Last Update**: last month
+- **Last Update**: [Last Commit](./Crude_Oil)
 - **Description**: Web scraping project related to crude oil data.
 - **Tools Used**: BeautifulSoup, Requests
 
 ### 📚 Ebook
 
 - **Directory**: [Ebook](./Ebook)
-- **Last Update**: last month
+- **Last Update**: [Last Commit](./Ebook)
 - **Description**: Web scraping project related to ebooks.
 - **Tools Used**: Scrapy, Selenium
 
 ### 💰 Crypto
 
 - **Directory**: [Crypto](./crypto/crypto/spiders)
-- **Last Update**: 3 weeks ago
+- **Last Update**: [Last Commit](./crypto)
 - **Description**: Web scraping project related to cryptocurrency data.
 - **Tools Used**: BeautifulSoup, Requests
 
 ### 🏢 Glassdoor
 
 - **Directory**: [Glassdoor](./glassdoor)
-- **Last Update**: last month
+- **Last Update**: [Last Commit](./glassdoor)
 - **Description**: Web scraping project related to Glassdoor job data.
 - **Tools Used**: Scrapy, Selenium
 
 ### 🏡 Real Estate
 
 - **Directory**: [Real_estate](./real_estate)
-- **Last Update**: last month
+- **Last Update**: [Last Commit](./real_estate)
 - **Description**: Web scraping project related to real estate data.
 - **Tools Used**: BeautifulSoup, Requests
 
