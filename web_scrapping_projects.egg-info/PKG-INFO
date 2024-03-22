@@ -1,0 +1,76 @@
+Metadata-Version: 2.1
+Name: web_scrapping_projects
+Version: 0.0.1
+Summary: A Python package for web scraping 
+Home-page: https://github.com/HarshalHonde50/WebScrapping
+Author: Harshal Honde
+Author-email: Harshalhonde50@gmail.com
+Project-URL: Bug Tracker, https://github.com/HarshalHonde50/WebScrapping/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Windows
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# 🕸️ Web Scraping Repository
+
+Welcome to the Web Scraping Repository! Explore a variety of web scraping projects covering diverse topics like crude oil, cryptocurrencies, Glassdoor job data, real estate, and SpaceX. Each project is equipped with its own set of web scraping tools, and we've provided links to the code so you can dive right in.
+
+## Projects
+
+### 🛢️ Crude Oil
+
+- **Directory**: [Crude_oil](./Crude_oil/Crude_oil/spiders/Oil_data.py)
+- **Last Update**: [Last Commit](./Crude_Oil)
+- **Description**: Web scraping project related to crude oil data.
+- **Tools Used**: BeautifulSoup, Requests
+
+### 📚 Ebook
+
+- **Directory**: [Ebook](./Ebook)
+- **Last Update**: [Last Commit](./Ebook)
+- **Description**: Web scraping project related to ebooks.
+- **Tools Used**: Scrapy, Selenium
+
+### 💰 Crypto
+
+- **Directory**: [Crypto](./crypto/crypto/spiders)
+- **Last Update**: [Last Commit](./crypto)
+- **Description**: Web scraping project related to cryptocurrency data.
+- **Tools Used**: BeautifulSoup, Requests
+
+### 🏢 Glassdoor
+
+- **Directory**: [Glassdoor](./glassdoor)
+- **Last Update**: [Last Commit](./glassdoor)
+- **Description**: Web scraping project related to Glassdoor job data.
+- **Tools Used**: Scrapy, Selenium
+
+### 🏡 Real Estate
+
+- **Directory**: [Real_estate](./real_estate)
+- **Last Update**: [Last Commit](./real_estate)
+- **Description**: Web scraping project related to real estate data.
+- **Tools Used**: BeautifulSoup, Requests
+
+### 🚀 SpaceX
+
+- **Directory**: [SpaceX](./spacex)
+- **Last Update**: [Last Commit](./spacex)
+- **Description**: Web scraping project related to SpaceX data.
+- **Tools Used**: Scrapy, Selenium
+
+## How to Use
+
+Each subdirectory contains its respective web scraping project. To explore the code and data, click on the directory name, and you'll find detailed instructions and scripts.
+
+## Contribution
+
+Feel free to contribute to any of these projects or create new ones. We welcome your ideas and enhancements to our web scraping efforts.
+
+## License
+
+This repository is open source and available under the [MIT License](./LICENSE).
+
+Happy scraping! 🌐🔍

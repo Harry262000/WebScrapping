@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+flask_app/__init__.py
+flask_app/app.py
+flask_app/models.py
+flask_app/views.py
+web_scrapping_projects.egg-info/PKG-INFO
+web_scrapping_projects.egg-info/SOURCES.txt
+web_scrapping_projects.egg-info/dependency_links.txt
+web_scrapping_projects.egg-info/top_level.txt
