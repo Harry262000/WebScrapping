@@ -1,0 +1,8 @@
+beautifulsoup4
+Scrapy
+Requests-HTML
+Selenium
+Lxml
+PyQuery
+
+-e.
