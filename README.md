@@ -55,7 +55,7 @@ Welcome to the Web Scraping Repository! Explore a variety of web scraping projec
 
 ### Instagram Saved post
 
-- __Directory__: [Instagra](./instagram)
+- __Directory__: [Instagram](./Instagram)
 - __Last Update__: [Last Commit](./instagram)
 - __Description__: Web scraping project related to instagram saved post data.
 - __Tools Used__: Scrapy, Selenium
